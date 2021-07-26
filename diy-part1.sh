@@ -27,8 +27,8 @@ git clone https://github.com/frainzy1477/luci-app-clash.git package/luci-app-cla
 #mentohust
 git clone https://github.com/KyleRicardo/MentoHUST-OpenWrt-ipk.git package/mentohust
 git clone https://github.com/BoringCat/luci-app-mentohust.git package/luci-app-mentohust
-#git clone https://github.com/fw876/helloworld package/helloworld
-#git clone https://github.com/Lienol/openwrt-package package/lienol
-#git clone https://github.com/kenzok8/openwrt-packages package/kenzo
-#git clone https://github.com/kenzok8/small package/small
-#git clone https://github.com/CHN-beta/xmurp-ua.git package/xmurp-ua
+git clone https://github.com/fw876/helloworld package/helloworld
+git clone https://github.com/Lienol/openwrt-package package/lienol
+git clone https://github.com/kenzok8/openwrt-packages package/kenzo
+git clone https://github.com/kenzok8/small package/small
+git clone https://github.com/CHN-beta/xmurp-ua.git package/xmurp-ua
